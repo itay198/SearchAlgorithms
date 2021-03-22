@@ -1,0 +1,3 @@
+C:/Users/itay_/CLionProjects/SearchAlgorithms/cmake-build-debug/CMakeFiles/SearchAlgorithms.dir
+C:/Users/itay_/CLionProjects/SearchAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/itay_/CLionProjects/SearchAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
